@@ -1,0 +1,15 @@
+ @import url('https://fonts.googleapis.com/css2?family=Rubik+Maps&display=swap');
+body{
+   text-align: center; 
+   background-image: url(/Websitebackground.jpg);
+}
+p{
+    color: aqua;
+    font-size: 22.5px;
+    font-family: 'Rubik Maps', system-ui;
+    
+}
+h1{
+    color: aqua;
+
+}
